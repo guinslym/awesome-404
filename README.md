@@ -47,7 +47,7 @@ A curated list of awesome 404 web page
 * S
 	* 
 * T
-	* [Tin Sanity](http://www.tinsanity.net/404.shtml){:target="_blank"}
+	* [Tin Sanity](http://www.tinsanity.net/404.shtml)
 * U
 	* 
 * V
