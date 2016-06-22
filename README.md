@@ -47,7 +47,7 @@ A curated list of awesome 404 web page
 * S
 	* 
 * T
-	* [Tin Sanity](http://www.tinsanity.net/404.shtml)
+	* [Tin Sanity](http://www.tinsanity.net/404.shtml){:target="_blank"}
 * U
 	* 
 * V
@@ -60,3 +60,8 @@ A curated list of awesome 404 web page
 	* 
 * Z
 
+
+# Contributing
+
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/guinslym/awesome-404/blob/master/CONTRIBUTING.md) first.
+Also, you could [vote for pull requests](https://github.com/guinslym/awesome-404/pulls) by adding :+1: to them.
