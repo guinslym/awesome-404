@@ -60,10 +60,6 @@ A curated list of awesome 404 web page
 	* 
 * Z
 
-# Some markdown
-*click below*
-<a href="http://www.tinsanity.net/404.shtml" target="_blank">New Tab</a>
-
 # Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/guinslym/awesome-404/blob/master/CONTRIBUTING.md) first.
