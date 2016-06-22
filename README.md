@@ -30,10 +30,10 @@ A curated list of awesome 404 web page
 * K
 	* 
 * L
-	* [lego](http://www.lego.com/skjldjf;asdf)
+	* [Lego](http://www.lego.com/skjldjf;asdf)
 * M
 	* [Mailchimp](http://www.mailchimp.com/404)
-	* [magnt](http://www.magnt.com/404/)
+	* [MAGNT](http://www.magnt.com/404/)
 * N
 	* 
 * O
