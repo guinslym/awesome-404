@@ -4,13 +4,14 @@ A curated list of awesome 404 web page
 
 * A
 	* [Airbnb](https://www.airbnb.com/404)
-	* [Audiko] (http://www.audiko.net/404)
+	* [Audiko](http://www.audiko.net/404)
 * B
-	* [Blue Fontain Media] (http://www.bluefountainmedia.com/404/)
+	* [Blue Fontain Media](http://www.bluefountainmedia.com/404/)
 	* [Bluegg](http://bluegg.co.uk/404)
 	* [Bret Victor](http://worrydream.com/404notfound)
 * C
-	* [CSS Ninja] (http://www.cssninjas.com/404)
+	* [Code Project](https://www.codeproject.com/404.aspx)
+	* [CSS Ninja](http://www.cssninjas.com/404)
 * D
 	* [Daniel Karcher Film Design Studios](http://www.bluedaniel.com/404)
 * E
